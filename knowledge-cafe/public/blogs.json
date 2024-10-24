@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/myq21nq/joshua-kettle-Mbr-DHQfsku-Q-unsplash.jpg",
+      "title": "The Enchanted Forest",
+      "author": "Luna Willows",
+      "author_img": "https://i.ibb.co.com/hMnT3rn/lesia-7-Rs6rdr-Paxk-unsplash.jpg",
+      "posted_date": "2024-10-20",
+      "reading_time": "5",
+      "hashtags": ["#fantasy", "#adventure", "#magic"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/s5vFQvF/kadarius-seegars-2-Hvav-RLZj-YM-unsplash.jpg",
+      "title": "Journey to the Stars",
+      "author": "Max Starling",
+      "author_img": "https://i.ibb.co.com/d0qcC5g/aiony-haust-3-TLl-97-HNJo-unsplash.jpg",
+      "posted_date": "2024-09-15",
+      "reading_time": "8",
+      "hashtags": ["#space", "#sci-fi", "#exploration"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/7YM4WV4/olena-bohovyk-Ft-Wn-K5-YH8-unsplash.jpg",
+      "title": "The Secret Garden",
+      "author": "Daisy Meadows",
+      "author_img": "https://i.ibb.co.com/0FDZCcH/brooke-cagle-kv-KSL7-B6e-To-unsplash.jpg",
+      "posted_date": "2024-08-05",
+      "reading_time": "6",
+      "hashtags": ["#nature", "#mystery", "#youngadult"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/N39ktWM/overhead-view-coffee-cup-pen-notebook-eyeglasses-textured-backdrop.jpg",
+      "title": "Underwater Dreams",
+      "author": "Finn Tide",
+      "author_img": "https://example.com/finn_tide.jpg",
+      "posted_date": "2024-07-22",
+      "reading_time": "7",
+      "hashtags": ["#ocean", "#fantasy", "#adventure"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/kXcWkzL/sardar-kamran-khan-Rs-Cvx-I9h2-Ew-unsplash.jpg",
+      "title": "Cybernetic Revolt",
+      "author": "Zara Steel",
+      "author_img": "https://i.ibb.co.com/z5Yhh3J/timur-isachenko-QCqy-RNw-Uq-E-unsplash.jpg",
+      "posted_date": "2024-06-30",
+      "reading_time": "9",
+      "hashtags": ["#cyberpunk", "#tech", "#dystopia"]
+    }
+  ]
+  
